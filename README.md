@@ -7,22 +7,15 @@ Soy estudiante de **Ingeniería Civil en Informática e Innovación Tecnológica
 * 🔭 Actualmente estoy desarrollando **AgenteSRE**, un proyecto MVP enfocado en prácticas de Site Reliability Engineering (SRE).
 * 🌱 Explorando y aprendiendo constantemente sobre **Kubernetes** y plataformas de Inteligencia Artificial como **Google AI Studio** y **Colab**.
 * 📍 Basado en Concepción, Chile.
-* ⚡ Fuera del código: Cuando no estoy programando, probablemente me encuentres armando mi setup de simracing, jugando algo en Steam o de trekking por los parques nacionales del sur.
+* ⚡ Fuera del código: Disfruto mucho de los videojuegos y escucho muchísima música. Si quieres conocer lo que escucho mientras programo (o cuando no), ¡puedes darle un vistazo a [mi playlist en Spotify](https://open.spotify.com/playlist/5w2lKkdfurwCeyKllWBAZV?si=277382f19f554baa)!
 
 ### 🛠️ Tecnologías y Herramientas
 
-*(Aquí puedes agregar los íconos de las tecnologías que manejas, te dejo una estructura base)*
-
+* **Lenguajes y Frameworks:** Python, PHP, Node.js, Laravel
 * **Infraestructura & SRE:** Kubernetes, Git, GitHub
-* **Inteligencia Artificial y Datos:** Google AI Studio, Google Colab, Napkin AI
-* **Lenguajes principales:** [Ej: Python, Java, C++, JavaScript]
-
-### 📈 Estadísticas de GitHub
-*(Opcional: Puedes integrar tarjetas dinámicas usando GitHub Readme Stats)*
-
-[![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radium)](https://github.com/TU_USUARIO_AQUI)
+* **Inteligencia Artificial y Datos:** LangGraph, Google AI Studio, Google Colab, Napkin AI
 
 ### 📫 Cómo contactarme
 
-* **LinkedIn:** [Enlace a tu perfil de LinkedIn]
-* **Email:** [Tu correo electrónico]
+* **LinkedIn:** [Javier Benavides Ortega](https://www.linkedin.com/in/javier-benavidesortega/)
+* **Email:** [j.benavideso@udd.cl](mailto:j.benavideso@udd.cl)
